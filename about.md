@@ -1,15 +1,15 @@
 ---
+id: 7
+title: about
+date: 2009-04-06T09:09:58+00:00
+author: mats
 layout: page
-title: About
-permalink: /about/
+guid: http://blog.snajgel.se/?page_id=7
 ---
+Based in Stockholm, Sweden and work as a System Management Consultant.
+  
+My main focus is System Center Operations Manager, Opalis and Service Manager.
+  
+This blog is mainly about those products but I might just go crasy and publish other stuff as well&#8230;
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Oh, I&#8217;m Mats by the way&#8230; :)
