@@ -8,8 +8,4 @@ guid: http://blog.snajgel.se/?page_id=7
 ---
 Based in Stockholm, Sweden and work as a System Management Consultant.
   
-My main focus is System Center Operations Manager, Opalis and Service Manager.
-  
-This blog is mainly about those products but I might just go crasy and publish other stuff as well&#8230;
-
 Oh, I&#8217;m Mats by the way&#8230; :)
